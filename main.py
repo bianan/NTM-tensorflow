@@ -4,6 +4,7 @@ import importlib
 import tensorflow as tf
 from ntm_cell import NTMCell
 from ntm import NTM
+from utils import *
 
 from utils import pp
 

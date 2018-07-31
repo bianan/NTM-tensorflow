@@ -3,6 +3,7 @@ import time
 import numpy as np
 import tensorflow as tf
 from random import randint
+from utils import *
 
 from utils import pprint
 
